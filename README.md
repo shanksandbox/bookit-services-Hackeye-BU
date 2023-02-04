@@ -24,8 +24,8 @@ bookit.services is a hyperlocal one-stop solution to the on demand service needs
 ### Contributors
 - Shashank Kumar
 - Aman Gupta
-- Shubhi Singh
+
 
 Built with ❤️ by Team C.O.D.E<br>
-Paradigm, E-Submit'23<br>
-Shiv Nadar University
+HackEye, i-cosmic'23<br>
+Bennett University
