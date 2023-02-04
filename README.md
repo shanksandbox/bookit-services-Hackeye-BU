@@ -1,10 +1,10 @@
 ![](./image1.gif)
-# FedNXT
+# bookit.services
 # [Website Here](https://globalbloodbanking.ml/ware/login) | [App Here](https://drive.google.com/file/d/11wZ_09a3Q_Dx0UdZoB4NDb7GwuoueZkc/view?usp=share_link) | [Documentation Here](https://drive.google.com/file/d/11wZ_09a3Q_Dx0UdZoB4NDb7GwuoueZkc/view?usp=share_link)
-FedNXT is one-stop solution to the supply chain and warehouse management needs of B2B sectors with additional features of giving ondemand estimate of freight shipping charges using an API exposing the underlying machine learning model.
+bookit.services is a hyperlocal one-stop solution to the on demand service needs of modern day families, buisnesses and homes.
 
 
-### Feature of FedNXT
+### Feature of bookit.services
 - allows you to manage your inventory, sales, purchases, customers, invoices, take payments and much more.
 - Update your stock information, make purchases and view sales information from anywhere anytime. 
 - For products,you have Standard Product, Digital Product, Product Category with operation functionalites of Add, edit, delete & view products, Print Barcodes, Import by CSV
