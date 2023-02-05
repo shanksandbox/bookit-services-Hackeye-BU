@@ -2,7 +2,9 @@
 # bookit.services
 # [Website Here](https://globalbloodbanking.ml/blinkit/) | [App Here](https://drive.google.com/file/d/11wZ_09a3Q_Dx0UdZoB4NDb7GwuoueZkc/view?usp=share_link) | [Documentation Here](https://drive.google.com/file/d/17INYObp4MOTcsXpG5-ayisPXgBqEkmfq/view?usp=share_link)
 bookit.services is a hyperlocal one-stop solution to the on demand service needs of modern day families, buisnesses and homes.
-
+- Dashboard: admin Password: admin
+- Provider Mail: demoprovider@gmail.com Password: Test@123
+- User Mail: demouser@gmail.com Password: Test@123
 
 ### Feature of bookit.services
 - Laravel Admin Dashboard
