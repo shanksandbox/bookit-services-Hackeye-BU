@@ -25,14 +25,10 @@ bookit.services is a hyperlocal one-stop solution to the on demand service needs
 - service done.
 
 - Service Categories
-- Rentals
-- Cleaners
-- Laundry
-- Electricians
-- Plumbers and many more.
+- Rentals, Cleaners, Laundry. Electricians, Plumbers and many more.
 
 
-###UI/UX
+### UI/UX
 <pre>
 <img src="./images/img1.jpg" alt="1" width="300" height="600" /> <img src="./images/img2.jpg" alt="1" width="300" height="600" /> <img src="./images/img3.jpg" alt="1" width="300" height="600" /> <img src="./images/img11.jpg" alt="1" width="300" height="600" />
 </pre>
