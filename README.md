@@ -32,7 +32,7 @@ bookit.services is a hyperlocal one-stop solution to the on demand service needs
 
 ### UI/UX
 <pre>
-<img src="./images/img1.jpg" alt="1" width="300" height="600" /> <img src="./images/img2.jpg" alt="1" width="300" height="600" /> <img src="./images/img3.jpg" alt="1" width="300" height="600" /> <img src="./images/img4.jpg" alt="1" width="300" height="600" /><img src="./images/img5.jpg" alt="1" width="300" height="600" /><img src="./images/img6.jpg" alt="1" width="300" height="600" />
+<img src="./images/img1.jpg" alt="1" width="300" height="600" /> <img src="./images/img2.jpg" alt="1" width="300" height="600" /> <img src="./images/img4.jpg" alt="1" width="300" height="600" /><img src="./images/img5.jpg" alt="1" width="300" height="600" /><img src="./images/img6.jpg" alt="1" width="300" height="600" />
 </pre>
 ### How to run?
 - setup server through cpanel
