@@ -5,11 +5,32 @@ bookit.services is a hyperlocal one-stop solution to the on demand service needs
 
 
 ### Feature of bookit.services
-- allows you to manage your inventory, sales, purchases, customers, invoices, take payments and much more.
-- Update your stock information, make purchases and view sales information from anywhere anytime. 
-- For products,you have Standard Product, Digital Product, Product Category with operation functionalites of Add, edit, delete & view products, Print Barcodes, Import by CSV
-- Transfer products to warehouses, price estimation for freights using ML model
-- Overview & warehouse stock charts, Product quantity & expiry alerts, Daily, monthly custom sales, payments, profit/loss purchase report, Customers, supplier, due, best-seller reports
+- Laravel Admin Dashboard
+- Laravel Admin Dashboard allows administrators to manage all roles,
+- permissions, services, and more.
+
+- Provider App
+- This is the primary interface for service providers who can assign, 
+- track and monitor handyman on field.
+
+- Admin App 
+- Admin App gives the platform owners a bird-eye view of the entire business.
+
+- User App
+- User App, It comes with all the features your users will need to book
+- your handyman service easily.
+
+- Bookit-service App
+- helps all on-field service providers to get the receive tasks and get
+- service done.
+
+- Service Categories
+- Rentals
+- Cleaners
+- Laundry
+- Electricians
+- Plumbers and many more.
+
 
 ###UI/UX
 <pre>
